@@ -1,0 +1,16 @@
+
+/* ----------- For screens 768px and larger ----------- */
+@media (min-width: 768px) {
+	body {
+    /* This code sets the background to red on ALL browsers that are larger than 768px*/
+    background: red;
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+@media (min-width: 1200px) {
+  /* This code sets the background to blue on ALL browsers that are larger than 1200px*/
+  body {
+    background: blue;
+  }
+}
